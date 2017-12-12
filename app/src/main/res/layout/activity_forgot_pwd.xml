@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.qjf.sample.ui.activitys.ForgotPwdActivity">
+
+        <include
+            android:id="@+id/topBar"
+            layout="@layout/topbar_layout" />
+
+        <EditText
+            android:id="@+id/edt_mobile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:background="@drawable/mobile_edt_shap"
+            android:hint="手机号"
+            android:padding="15dp"
+            android:textSize="@dimen/fifteen_sp" />
+
+        <Button
+            android:id="@+id/btn_send_verfication_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/login_btn_shap"
+            android:text="发送验证码"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sixteen_sp" />
+    </LinearLayout>
+</layout>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffffff</color>
+    <color name="common_white">#FFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="new_btn_color">#1E9CD7</color>
+
+    <color name="background">#f2f2f2</color>
+    <!--    导航文字颜色 -->
+    <color name="actioncolor">#868686</color>
+    <color name="backgroud">#cecece</color>
+    <color name="gray_transparent">#10000000</color>
+    <color name="refund_success">#A4E9C5</color>
+    <color name="back2refundlist">#FF4200</color>
+    <color name="coupon_transparent">#20000000</color>
+
+
+    <color name="ring_title">#242424</color>
+    <color name="cc_list_divier">#D5D5D5</color>
+    <color name="home_bottom_menu">#F8b94a</color>
+    <color name="bg_topBar">@color/white</color>
+    <color name="bg_system">#b3000000</color>
+
+    <color name="btn_bg">#ff7200</color>
+
+    <color name="topbar_bg">#F8BA4B</color>
+
+    <color name="dark_yellow">#854600</color>
+    <color name="light_yellow">#ffff00</color>
+    <!-- 标题栏标题颜色->
+
+    <!- 半透明的白20%-->
+    <color name="light_white">#E5ffffff</color>
+
+    <color name="linecolor">#aaaaaa</color>
+    <color name="hafewhite">#80FFFFFF</color>
+    <!-- 灰色 -->
+    <color name="gray">#808080</color>
+    <!-- 黑色 -->
+    <color name="homepage_text_color">#363635</color>
+
+    <!-- 黑色 -->
+    <color name="homepage_goods_name_color">#363635</color>
+
+    <!-- 黑色 -->
+    <color name="black">#000000</color>
+    <color name="notInputHintColor">#555555</color>
+    <color name="grey_text">#A19E98</color>
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+    <!-- 半透明  20%-->
+    <color name="halftransparent">#33000000</color>
+    <color name="defaultDarkGray">#808080</color>
+
+    <color name="thumbColor">#66aaaaaa</color>
+
+    <!--orderlist-->
+    <color name="money_color">#FE483A</color>
+
+    <color name="icon_back">#F4F6F6</color>
+
+    <color name="go_to_pay">#E30000</color>
+    <!--默认字体颜色-->
+    <color name="default_text_color">#4B4B4B</color>
+    <!--EditText默认hint颜色-->
+    <color name="default_hint_color">#CFCFCF</color>
+    <!--店铺指南分割线颜色-->
+    <color name="shop_bottom_line">#BABABA</color>
+    <color name="shop_title_type">#B7B2B2</color>
+    <!--代金券颜色-->
+    <color name="voucher_title">#4A4A4A</color>
+    <color name="voucher_type">#666666</color>
+    <color name="voucher_time">#999999</color>
+    <color name="voucher_price">#F74646</color>
+    <color name="voucher_gray">#CCCCCC</color>
+
+    <color name="label_black">#979797</color>
+    <color name="label_orange">#F8B94A</color>
+    <color name="shop_list_img_stroke">#E2E2E2</color>
+    <color name="tab_layout_bg">#F8B94A</color>
+    <color name="home_stroke_bg">#E7E7E7</color>
+    <color name="classify_tab_bg">#FFF8EB</color>
+    <color name="secondary_cancel">#FE9087</color>
+    <color name="secondary_more_black">#848282</color>
+    <color name="tab_black_color">#716F6F</color>
+
+    <!--商城价格字体颜色-->
+    <color name="price_color">#FE483A</color>
+    <!--商城页面背景颜色、分割线颜色-->
+    <color name="page_background_color">#F6F6F6</color>
+    <color name="code_gary">#908E8E</color>
+    <color name="integral_red">#FE483A</color>
+    <color name="integral_blue">#65CBF1</color>
+    <color name="pay_success_text">#A4E9C5</color>
+    <color name="pay_error_text">#F98080</color>
+
+    <color name="material_red">#ffF44336</color>
+    <color name="material_green">#ff4CAF50</color>
+    <color name="material_blue">#ff03A9F4</color>
+    <color name="material_yellow">#ffFFEB3B</color>
+
+    <color name="classify_scene_top_content">#B3B3B3</color>
+    <!-- takePhoto系统状态栏背景色 -->
+    <color name="multiple_image_select_primaryDark">@color/black</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+    <color name="crn0">#25a0f5</color>
+
+    <color name="coupon_blue">#BADDFA</color>
+    <color name="coupon_text_light_red">#FF9494</color>
+    <color name="coupon_text_blue">#9EC3F5</color>
+    <color name="coupon_text_red">#FF9294</color>
+    <color name="coupon_text_deep_red">#FF6E63</color>
+    <color name="coupon_text_black">#999999</color>
+    <color name="login_btn">#267AEA</color>
+    <color name="tab_text_color_normal">#535353</color>
+    <color name="tab_text_color_selected">#267AEA</color>
+</resources>

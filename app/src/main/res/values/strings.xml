@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVVPSample</string>
+    <string name="tab_message">消息</string>
+    <string name="tab_contacts">联系人</string>
+    <string name="tab_setting">设置</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
