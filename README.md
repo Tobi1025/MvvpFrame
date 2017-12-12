@@ -1,2 +1,2 @@
 # MvvpFrame
-基于 MVVP + RxJava + Retrofit + Glide的快速开发框架。
+基于 MVVP(MVP+DataBinding) + RxJava + Retrofit + Glide的快速开发框架。
